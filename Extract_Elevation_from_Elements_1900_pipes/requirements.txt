@@ -1,0 +1,8 @@
+# Install into an EXTERNAL Python 3.10+ 64-bit virtual environment.
+# Do not install these packages into ArcMap 10.8's Python 2.7.
+geopandas>=0.14
+shapely>=2.0
+pyogrio>=0.7
+numpy>=1.24
+pandas>=1.5
+pyproj>=3.4
